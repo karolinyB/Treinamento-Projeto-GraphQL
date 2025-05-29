@@ -1,0 +1,13 @@
+INSTALAÇÕES INICIAIS
+
+    - npm init -y
+    fornece o packpage.json
+
+    - npm i -D nodemon
+    fornece o servidor do node
+
+    - npm i graphql apollo-server
+    instalação do graphql e apollo-server
+
+    - npm start
+    roda o servidor no terminal
